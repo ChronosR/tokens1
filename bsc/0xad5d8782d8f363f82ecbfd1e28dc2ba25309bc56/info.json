@@ -1,0 +1,11 @@
+{
+ "name": "ECPSCOP",
+ "website": "https://bscscan.com/token/0xad5d8782d8F363F82ecBFd1e28dc2ba25309bc56",
+ "description": "null",
+ "explorer": "https://bscscan.com/token/0xad5d8782d8F363F82ecBFd1e28dc2ba25309bc56",
+ "type": "BEP20",
+ "symbol": "COP",
+ "decimals": 18 ,
+ "status": "active",
+ "id": "0xad5d8782d8F363F82ecBFd1e28dc2ba25309bc56"
+}
